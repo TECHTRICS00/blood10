@@ -1,0 +1,23 @@
+
+
+
+
+
+data base name=          if0_37888203_data00
+MySQL username: 	 if0_37888203
+MySQL Password;          Bloodiot10
+MySQL hostname: 	 sql201.infinityfree.com
+
+
+
+
+$host = "localhost";
+$username = "root";
+$password = "";
+$database = "data00";
+
+
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "data00";

@@ -1,0 +1,81 @@
+[2024-12-14 09:04:27] Received POST Data: Array
+(
+    [load_cell_1] => 3.86
+    [load_cell_2] => 0.79
+    [load_cell_3] => -2.71
+    [load_cell_4] => 0.02
+    [temperature] => 32.26
+)
+
+[2024-12-14 09:04:42] Received POST Data: Array
+(
+    [load_cell_1] => -0.11
+    [load_cell_2] => -4.12
+    [load_cell_3] => -2.16
+    [load_cell_4] => -2.22
+    [temperature] => 32.75
+)
+
+[2024-12-14 09:04:56] Received POST Data: Array
+(
+    [load_cell_1] => -0.44
+    [load_cell_2] => 1.93
+    [load_cell_3] => 1.68
+    [load_cell_4] => 0.12
+    [temperature] => 31.77
+)
+
+[2024-12-14 09:05:11] Received POST Data: Array
+(
+    [load_cell_1] => -1.24
+    [load_cell_2] => 0.79
+    [load_cell_3] => 1.66
+    [load_cell_4] => -1.76
+    [temperature] => 33.24
+)
+
+[2024-12-14 09:05:25] Received POST Data: Array
+(
+    [load_cell_1] => 1.87
+    [load_cell_2] => 8.48
+    [load_cell_3] => 5.54
+    [load_cell_4] => -9.48
+    [temperature] => 31.77
+)
+
+[2024-12-14 09:05:40] Received POST Data: Array
+(
+    [load_cell_1] => 10.23
+    [load_cell_2] => -25.69
+    [load_cell_3] => -1.65
+    [load_cell_4] => 4.57
+    [temperature] => 32.75
+)
+
+[2024-12-14 09:05:55] Received POST Data: Array
+(
+    [load_cell_1] => -1.20
+    [load_cell_2] => -1.02
+    [load_cell_3] => -0.57
+    [load_cell_4] => 2.31
+    [temperature] => 32.75
+)
+
+[2024-12-14 09:06:09] Received POST Data: Array
+(
+    [load_cell_1] => 0.84
+    [load_cell_2] => -0.39
+    [load_cell_3] => -0.94
+    [load_cell_4] => 0.02
+    [temperature] => 32.75
+)
+
+[2024-12-14 09:06:24] Received POST Data: Array
+(
+    [load_cell_1] => -1.27
+    [load_cell_2] => 9.19
+    [load_cell_3] => -6.19
+    [load_cell_4] => -2.27
+    [temperature] => 32.75
+)
+
